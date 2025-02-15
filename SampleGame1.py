@@ -1,3 +1,4 @@
+#Top Yakalama Oyunu
 import pygame  # type: ignore
 import random
 
